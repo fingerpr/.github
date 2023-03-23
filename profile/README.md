@@ -1,8 +1,8 @@
 # Blauhands LLP
 
-Blauhands LLP is a leading provider of end-to-end digital solutions for businesses and organizations of all sizes. With a focus on providing high-quality website and app development, as well as innovative low code and no code solutions, Blauhands is dedicated to helping its clients succeed in the digital age.
-
 - [Homepage](https://www.blauhands.com)
+
+Blauhands LLP is a leading provider of end-to-end digital solutions for businesses and organizations of all sizes. With a focus on providing high-quality website and app development, as well as innovative low code and no code solutions, Blauhands is dedicated to helping its clients succeed in the digital age.
 
 ## Empowering your digital vision
 
